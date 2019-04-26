@@ -133,4 +133,9 @@ if even_odd(age):
 else:
     print('Age {0} Odd!' .format(age))
 
+
+# f function on strings
+print(f'The {myFruit.upper()} says {quantity} pices')
+
+
         
